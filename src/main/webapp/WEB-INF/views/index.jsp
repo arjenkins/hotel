@@ -17,10 +17,10 @@
 <form action="/hotels" method="post">
 <div class="input-group">
   <select name="city" class="custom-select" id="inputGroupSelect04">
-    <option selected>Choose...</option>
-    <option value="Michigan">Detroit, Michigan</option>
-    <option value="Michigan">Troy, Michigan</option>
-    <option value="Michigan">Birmingham, Michigan</option>
+    <option selected>Choose a location</option>
+    <option value="Detroit">Detroit, Michigan</option>
+    <option value="Troy">Troy, Michigan</option>
+    <option value="Birmingham">Birmingham, Michigan</option>
   </select>
   <div class="input-group-append">
     <button class="btn btn-outline-secondary" type="submit">Find My Hotel</button>
